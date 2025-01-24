@@ -10,7 +10,7 @@ package com.mycompany.biblioteca_andrea_fernandez;
  */
 public class Usuario {
         private final int edad;
-        private final String puta;
+        private final String nombre;
         private boolean penalizado;
         private int librosPrestados;
        
